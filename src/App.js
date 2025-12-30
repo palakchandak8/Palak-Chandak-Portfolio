@@ -75,10 +75,10 @@ const Portfolio = () => {
   ];
 
   const stats = [
-    { value: '20+', label: 'Projects Completed' },
-    { value: '121', label: 'GitHub Contributions' },
-    { value: '5+', label: 'Technologies' },
-    { value: '2027', label: 'Graduation' }
+    { value: '9.3', label: 'SPGA' },
+    { value: '3+', label: 'Years Coding' },
+    { value: '∞', label: 'Ideas' },
+    { value: '24/7', label: 'Learning' }
   ];
 
   return (
